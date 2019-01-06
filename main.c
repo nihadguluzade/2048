@@ -1,6 +1,6 @@
-﻿/*  2048 game project for BBG
+﻿/*  2048 game project
  *	Started 21/12/2018
- *	17011903 Nihad Guluzade
+ *	Nihad Guluzade
  *	=========================
  *  Windows version, final
 */
