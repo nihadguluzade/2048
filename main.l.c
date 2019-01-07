@@ -305,7 +305,6 @@ int move(int matrix[][MAX_SIZE], int size, char key) {
 		// Resets all variables
 		points = 0;
 		prev_point = 0;
-		highest_p = 0;
 		changes = 4;
 	}
 	else {
